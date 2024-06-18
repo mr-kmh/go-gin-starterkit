@@ -1,0 +1,14 @@
+app_name: go-gin-starterkit
+debug: true
+
+server:
+  port: 8080
+
+postgres:
+  host: host
+  port: port
+  dbname: dbname
+  user: user
+  password: password
+  sslmode: disable
+  timezone: timezone
